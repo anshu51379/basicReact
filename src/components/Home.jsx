@@ -33,7 +33,7 @@ const Home = () => {
                 <div>
                     <h1></h1>
                     <p>
-                        I'm a 3rd year B.Tech CSE student of Institute of Engineering and Management. With a group of my few friends, I started this as a service provider website to solve all your technical issues. Today's youth is too much confused and not have quick resolution of their issues. So they keep on leaving the issues unresolved. By this initiative, i can assure some of them with the resolution of their issues at any moment, so they can keep on moving on the same page without leaving any domain.
+                        I'm a 3rd year B.Tech CSE student at the Institute of Engineering and Management. With the help of some friends, I started this website as a service provider to solve all your technical issues. Today's youth are too confused and do not have quick resolutions to their issues. So they keep on leaving the issues unresolved. By taking this initiative, I can assure some of them of the resolution of their issues at any moment, so they can keep on moving on the same page without leaving any domain.
                     </p>
                 </div>
             </div>
